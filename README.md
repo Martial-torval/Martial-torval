@@ -3,5 +3,5 @@
 
 # Current activity : 
 Full-stack web developer training at AccessCodeSchool
-[!Logo Traning](https://i.ytimg.com/vi/d5-0OVmNzs8/maxresdefault.jpg)
+[[!Logo Traning](https://i.ytimg.com/vi/d5-0OVmNzs8/maxresdefault.jpg)]
 
